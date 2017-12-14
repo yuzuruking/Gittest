@@ -66,9 +66,6 @@ public class User {
         return "User [id=" + id + ", name=" + name + ", password=" + password + ", age=" + age + "]";
     }
     
-    public void test(){
-        
-    }
     
     
 }
